@@ -1,4 +1,4 @@
-import React from "react";
+
 import {
   FaFacebook,
   FaInstagram,
@@ -11,7 +11,7 @@ const Footer = () => {
   return (
     <div className="bg-gray-800 text-white pt-10 ">
       <div className="flex justify-between max-w-7xl mx-auto ">
-        <img src="/public/logo-removebg.png" alt="logo" />
+        <img src="./logo-removebg.png" alt="logo" />
         <div className="flex">
           <div>
             <button className="bg-blue-600 text-white rounded px-5 py-1 border border-white" type="button ">Schedule 1-on-1 Call Now</button>
