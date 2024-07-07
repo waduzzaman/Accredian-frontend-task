@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "programName": "Professional Certificate Program in Product Management",
+    "referrerBonus": "₹ 7,000",
+    "refereeBonus": "₹ 7,000"
+  },
+  {
+    "id": 2,
+    "programName": "Strategy & Leadership",
+    "referrerBonus": "₹ 6,000",
+    "refereeBonus": "₹ 6,000"
+  },
+  {
+    "id": 3,
+    "programName": "Business Management",
+    "referrerBonus": "₹ 5,000",
+    "refereeBonus": "₹ 5,000"
+  },
+  {
+    "id": 4,
+    "programName": "Fintech",
+    "referrerBonus": "₹ 8,000",
+    "refereeBonus": "₹ 8,000"
+  },
+  {
+    "id": 5,
+    "programName": "Data Science",
+    "referrerBonus": "₹ 9,000",
+    "refereeBonus": "₹ 9,000"
+  }
+]
